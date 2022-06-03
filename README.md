@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on helping others to develope their code.
 - My Roll Models: 
 -                 Elon Musk
--                 Ratan Tata
 -                 Suyog Naikwade
 -                 Aaryan Bora
 
