@@ -3,7 +3,7 @@
 I am a student pursuing a diploma in Cloud Computing and Big Data. I aspire to build a career in **Data Science**, with a special focus on **Neural Networks**, while also exploring my entrepreneurial ambitions.
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python
+- **Programming Languages**: Python, C/C++, PHP, SQL
 - **Libraries & Frameworks**: NumPy, Pandas, OpenCV, TensorFlow
 
 ## 🌟 Projects
